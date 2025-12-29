@@ -1,0 +1,3 @@
+displayName = Arena Builder
+author = Diskriminant
+version = 0.1
